@@ -1,2 +1,2 @@
 # ethical-hacking
-Some of my ethical hacking tools n stuff
+Some of my ethical hacking things
